@@ -1287,6 +1287,7 @@ p.lead span {
 
 .card-blog .card-description {
   color: #4e4e4e;
+  text-align: justify;
 }
 
 .card-blog .post-author {
