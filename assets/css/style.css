@@ -1283,6 +1283,12 @@ p.lead span {
   text-align: justify;
 }
 
+p.card-description.card-description-1 {
+  margin-bottom: 74px;
+}
+p.card-description.card-description-2 {
+  margin-bottom: 26px;
+}
 .card-blog .post-author {
   display: inline-block;
 }
